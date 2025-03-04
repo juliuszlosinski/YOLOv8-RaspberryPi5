@@ -1,0 +1,6 @@
+/venv_env/
+venv_env/
+venv_env
+yolov8n-pose.pt
+yolov8n-seg.pt
+yolov8n.pt
